@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
@@ -6,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>channelmonsteryy</title>
+<title>MonSteRYY YouTubeChannel</title>
 <meta name="generator" content="Jekyll v3.9.2" />
 <meta property="og:title" content="channelmonsteryy" />
 <meta property="og:locale" content="en_US" />
@@ -35,7 +34,7 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-       <img src="monsteryy.jpg" alt="ЮТУБЕР">
+       <img src="img/monsteryy.jpg" alt="ЮТУБЕР">
 		  <img src="img/monsteryy.jpg" alt="ЮТУБЕР">
 		  <img src="img/monsteryy.jpg" alt="ЮТУБЕР">
 		  <img src="img/monsteryy.jpg" alt="ЮТУБЕР">
@@ -57,7 +56,7 @@
          <marquee direction="left" bgcolor="white"></marquee>
          <p align="right">ПОДПИШИСЬ ПОСТАВЬ ЛАЙК</p>
          <p><a href="http://www.youtube.com/channel/UCUixIgby67Wdsh1YrZ5Dvfw">YouTube</a></p>
-		 <p><a href="../file:///C:/Users/%D0%93%D0%BE%D1%81%D1%82%D1%8C/Desktop/1monsteryyyoutube.html">ВСЕ ВИДЕО</a></p>
+		 <p><a href="file:///C:/Users/%D0%93%D0%BE%D1%81%D1%82%D1%8C/Desktop/1monsteryyyoutube.html">ВСЕ ВИДЕО</a></p>
              <h1>СНИМАЛ ВИДЕО</h1>
      <ul>
              <li>Fortnite</li>
